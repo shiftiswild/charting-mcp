@@ -1,0 +1,22 @@
+{
+  "name": "io.github.shiftiswild/charting-mcp",
+  "description": "Nursing documentation guide as tools: articles built on published court decisions. Gives you the shape of the note. Takes no patient information.",
+  "version": "1.1.0",
+  "websiteUrl": "https://shiftiswild.com/notes/for-ai/",
+  "repository": {
+    "url": "https://github.com/shiftiswild/charting-mcp",
+    "source": "github"
+  },
+  "transport": {
+    "type": "stdio"
+  },
+  "runtime": {
+    "command": "python3",
+    "args": [
+      "siw_charting.py"
+    ],
+    "requires": "Python 3.9+",
+    "dependencies": []
+  },
+  "_note": "Draft for the MCP registry. Field names must be checked against the registry schema before submitting: the registry expects a published package (PyPI/npm) for some entry types, and this server is a single file."
+}
