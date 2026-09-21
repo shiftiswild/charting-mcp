@@ -112,8 +112,9 @@ Not legal advice and not clinical advice.
 
 ## Licence
 
-Code — MIT. Content in `corpus.json` — CC BY 4.0: use it, quote it, build
-on it, with a link back.
+Code — [MIT](LICENSE). Content in `corpus.json` —
+[CC BY 4.0](LICENSE-CONTENT): use it, quote it, build on it, with a link
+back to <https://shiftiswild.com/notes/>.
 
 The source comments are in Russian; the project is written that way. The
 tool descriptions, prompts and everything a user sees are in English.
